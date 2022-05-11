@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>ključne riječi se razdvajaju zarezom - ','</comment>
+<entry key="cijenaMin">0</entry>
+<entry key="kljucneRijeci">lego batmobile, lego batman</entry>
+<entry key="maxOglasaPoUpitu">3</entry>
+<entry key="lokacijaY">0</entry>
+<entry key="lokacijaX">0</entry>
+<entry key="cijenaMax">400</entry>
+<entry key="sortiranje">expensive</entry>
+<entry key="intervalUMinutama">60</entry>
+</properties>
